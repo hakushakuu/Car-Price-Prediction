@@ -275,5 +275,10 @@ namespace Car_Price_Prediction
                 }
             }
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
